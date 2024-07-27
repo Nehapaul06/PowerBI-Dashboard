@@ -4,11 +4,11 @@ Overview:
 This Power BI project provides an in-depth analysis of Blinkit's sales data, offering key insights into sales trends, product performance, customer behavior, and other crucial metrics. The dashboard leverages advanced data transformation and visualization techniques to present the data in an accessible and actionable format.
 
 
-Key Features
+Key Features 
+
 Data Transformation & Cleaning: The raw sales data was cleaned and transformed using Power Query, ensuring accurate and consistent analysis.
 Dynamic Visualizations: The dashboard includes various visualizations such as line charts, bar charts, pie charts, and more, allowing users to explore the data from different perspectives.
 DAX Measures: Custom DAX measures were created to calculate important metrics like Total Sales, Average Order Value, Customer Retention Rate, and Sales Growth Rate.
-Interactive Elements: Users can interact with the dashboard through slicers, filters, and drill-down options to explore specific data segments or time periods.
 Comprehensive Overview: The dashboard provides a comprehensive overview of sales performance, including a breakdown by product categories, regions, and time periods.
 
 Technologies Used:
