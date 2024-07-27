@@ -1,6 +1,7 @@
 # PowerBI-Dashboard
 
 Overview:
+
 This Power BI project provides an in-depth analysis of Blinkit's sales data, offering key insights into sales trends, product performance, customer behavior, and other crucial metrics. The dashboard leverages advanced data transformation and visualization techniques to present the data in an accessible and actionable format.
 
 
@@ -12,6 +13,7 @@ DAX Measures: Custom DAX measures were created to calculate important metrics li
 Comprehensive Overview: The dashboard provides a comprehensive overview of sales performance, including a breakdown by product categories, regions, and time periods.
 
 Technologies Used:
+
 Power BI: For data visualization and dashboard creation.
 Power Query: For data transformation and cleaning.
 DAX (Data Analysis Expressions): For creating custom calculations and metrics.
